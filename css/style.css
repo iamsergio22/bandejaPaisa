@@ -1,0 +1,15 @@
+body{
+    background: #f3f4f5;
+}
+
+.titulo{
+    font-family: Arial;
+    font-size: 24px;
+    color: black;  
+    text-align: center;  
+}
+p{
+    font-family: georgia;
+    font-size: 18px;
+    color: #757575;
+}
